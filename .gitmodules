@@ -1,0 +1,6 @@
+[submodule "lead_manager_backend"]
+	path = lead_manager_backend
+	url = https://github.com/Zeddling/lead_manager_backend
+[submodule "lead_manager_frontend"]
+	path = lead_manager_frontend
+	url = https://github.com/Zeddling/lead_manager_frontend
